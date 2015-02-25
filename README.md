@@ -2,10 +2,10 @@
 betting demo web application
 
 ## Overview
-betting demo web application calculates the dividends for a simplified form of Tote Betting using Angular.js, LESS, CSS3 and HTML5.
+betting demo web application calculates the dividends for a simplified form of Tote Betting using Angular.js, CSS and HTML5.
 
 ## Prerequisites
-Node.js, NPM and Bower
+Node.js, NPM
 
 ## To run the built-in webserver
 - Run `npm start`
